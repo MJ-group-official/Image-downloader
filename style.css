@@ -37,6 +37,47 @@ h1{
     margin-left:2vw;
     text-transform:capitalize;
 }
+.introducter{   
+    border:2px solid black;
+    width:95vw;
+    height:34vh;
+    margin:2.5vw;
+    margin-top:1vh;
+    margin-bottom:1vh;
+    border-radius:2vw;
+    background-image:url("black-leave.jpg");
+    background-size:cover;
+    background-position:center; 
+    color:white;
+}
+.image-radha{
+    width:30vw;
+    height:15vh;
+    border-radius:50vw;    
+    background-image:url("img-logo.jpg");
+    background-size:cover;
+   background-position:center -32vh;   
+    float:right;   
+    margin-right:6vw;
+    margin-left:12px;
+    box-shadow:2px 2px 5px white,
+              -2px -2px 5px white; 
+    
+}
+.pick-container-heading{
+    margin-top:5vh;
+    margin-left:5vw;
+    font-size:4vw;
+}
+.paragraph{
+    text-align:justify; 
+    color:white;
+}
+p{
+   font-size:2vw;
+   margin-left:5vw;
+   margin-right:38vw;   
+}
 .container{
     display:grid;
     grid-template-areas:"img1 img2"
