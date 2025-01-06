@@ -11,6 +11,9 @@ header{
     color:white;
     position:sticky;
     top:0;
+    background-image:url("black-leave.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
 }
 nav{
     display:flex;  
@@ -225,7 +228,8 @@ a{
     margin-bottom:4vh;
 }
 footer{
-    background-color:black;
+    background-image:url("black-leave.jpg");
+    background-size:cover;
     padding:1vw;
     color:white;
     font-size:2vw;
